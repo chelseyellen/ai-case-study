@@ -25,8 +25,9 @@ CrowdStrike is currently a publicly traded company under the ticket NASDAQ: CRWD
 ### Business Model & Revenue Streams
 CrowdStrike deploys a **Land and Expand** business model where they offer free trials to prospective customers with the aim of converting them to paying customers and to existing customers to deepen the existing relationship. CrowdStrike primarily generates revenue through professional services support and subscription licensing of its products. Professional services such as incident response, forensic and malware analysis, and attribution analysis and industry-wide partnerships account for 7% of its revenue. Annual subscription fees for CrowdStrike Falcon and cloud modules account for 93% of its revenue. [The Strategy Story: How Does CrowdStrike Make Money?](https://thestrategystory.com/2022/12/03/how-does-crowdstrike-work-make-money-business-model-competitors/)
 
-CrowdStrike states that its mission is:
->"CrowdStrike has redefined security with the world’s most advanced cloud-native platform that protects and enables the people, processes and technologies that drive modern enterprise. CrowdStrike secures the most critical areas of risk – endpoints and cloud workloads, identity, and data – to keep customers ahead of today’s adversaries and stop breaches." [CrowdStrike](https://www.crowdstrike.com/about-us/)
+CrowdStrike states that it has...
+>"...redefined security with the world’s most advanced cloud-native platform that protects and enables the people, processes and technologies that drive modern enterprise. CrowdStrike secures the most critical areas of risk – endpoints and cloud workloads, identity, and data – to keep customers ahead of today’s adversaries and stop breaches." 
+[CrowdStrike](https://www.crowdstrike.com/about-us/)
 
 ### Artificial Intelligence
 CrowdStrike utilizes Artificial Intelligence from the ground up in their products:
